@@ -1,0 +1,6 @@
+
+# Ignore Python and Jupyter Caches
+__pycache__
+.ipynb_checkpoints
+.gitignore.swp
+
