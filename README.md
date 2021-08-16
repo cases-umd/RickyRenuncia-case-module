@@ -26,6 +26,5 @@ For now, the expected metadata will be a list of computational practices that ar
     "cas:dp_creating_data"
    ]
   },
-...
 ```
 
