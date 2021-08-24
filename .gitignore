@@ -6,3 +6,11 @@ __pycache__
 
 # Ignore VSCode configuration files
 .vscode/
+tweet_cache/
+pandas_tweets.db
+tweets.db
+tweets (copy).db
+tweets.db.old
+tweet_cache.tar.gz
+tweetsRickyRenuncia-final.jsonl
+rrhydrated.jsonl
