@@ -6,6 +6,8 @@ __pycache__
 
 # Ignore VSCode configuration files
 .vscode/
+
+# Ignore Data Sources and Storage
 tweet_cache/
 pandas_tweets.db
 tweets.db
@@ -14,3 +16,7 @@ tweets.db.old
 tweet_cache.tar.gz
 tweetsRickyRenuncia-final.jsonl
 rrhydrated.jsonl
+
+# Testing Environment Credential Files
+twitter_secrets_testing.py
+google_translate_keys_testing.json
