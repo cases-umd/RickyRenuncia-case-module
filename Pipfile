@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tweet-requester = "*"
+ipywidgets = "*"
+matplotlib = "*"
+ipympl = "*"
+seaborn = "*"
+
+[dev-packages]
+notebook = "*"
+
+[requires]
+python_version = "3.10"
